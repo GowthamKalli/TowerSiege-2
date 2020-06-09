@@ -7,7 +7,7 @@ const Constraint = Matter.Constraint;
 var ground,platform1,platform2,sling1,box,player,playerimg;
 
 function preload(){
-     playerimg = loadImage("hex.png");
+     playerimg = loadImage("hex.png")
 }
 
 function setup() {
